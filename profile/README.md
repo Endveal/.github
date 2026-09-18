@@ -1,4 +1,4 @@
-![Endveal](.././endveal.png)
+![Endveal](.././endveal_effect.png)
 
 <!--
 
